@@ -3091,6 +3091,6 @@ Change instructions an business logic to do this."
 
 ---
 ### Entry ID: 7f3a2c8e-91d4-4b5f-a6e3-8c1d9f4b2e7a — 2026-03-29 04:20
-> "Please read this blog https://waldo.be/2026/03/28/i-built-the-tool-but-forgot-the-skill/ And suggest PR here https://github.com/waldo1001/waldo.BCTelemetryBuddy"
+> "Add question coaching and answer validation to BCTB prompts — help users ask better questions (rephrase vague input, suggest investigation paths) and be more critical of AI output (state assumptions, flag limitations, suggest verification steps)"
 
 ---
