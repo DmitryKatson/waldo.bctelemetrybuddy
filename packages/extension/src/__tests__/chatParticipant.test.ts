@@ -225,8 +225,8 @@ describe('Chat Participant', () => {
             // Challenge & Validate (Step 6a)
             expect(systemPrompt).toContain('Challenge Your Own Output');
             expect(systemPrompt).toContain('State your assumptions');
-            expect(systemPrompt).toContain('Flag what could be misleading');
-            expect(systemPrompt).toContain('Propose deeper questions');
+            expect(systemPrompt).toContain('Flag limitations honestly');
+            expect(systemPrompt).toContain('Propose follow-up questions');
         });
 
         it('should call language model with system prompt and user query', async () => {
